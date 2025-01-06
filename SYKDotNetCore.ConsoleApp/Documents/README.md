@@ -1,5 +1,4 @@
 #  DotNetTrainingBatch5
-
 C# .Net
 C# Language
 .Net
@@ -34,4 +33,4 @@ SLH=>Collin
 
 Bank +5000
 
-SLHDotNetCore
+SYKDotNetCore
