@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.11.35303.130
+VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SYKDotNetCore.ConsoleApp", "SYKDotNetCore.ConsoleApp\SYKDotNetCore.ConsoleApp.csproj", "{5B7DDEF8-7AB6-49B3-9B95-82B0CEED9A8B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SYKDotNetCore.ConsoleApp", "SYKDotNetCore.ConsoleApp\SYKDotNetCore.ConsoleApp.csproj", "{684EB723-3B81-4713-AA94-03BFD53C0514}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5B7DDEF8-7AB6-49B3-9B95-82B0CEED9A8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5B7DDEF8-7AB6-49B3-9B95-82B0CEED9A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5B7DDEF8-7AB6-49B3-9B95-82B0CEED9A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5B7DDEF8-7AB6-49B3-9B95-82B0CEED9A8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{684EB723-3B81-4713-AA94-03BFD53C0514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{684EB723-3B81-4713-AA94-03BFD53C0514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684EB723-3B81-4713-AA94-03BFD53C0514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{684EB723-3B81-4713-AA94-03BFD53C0514}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C31BC59E-D712-43D2-909E-EB4E29AC6749}
 	EndGlobalSection
 EndGlobal
