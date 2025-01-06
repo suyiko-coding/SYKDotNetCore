@@ -2,7 +2,6 @@
 C# .Net
 C# Language
 .Net
-
 Console App
 Winsows Forms
 ASP.Net Core Web API
